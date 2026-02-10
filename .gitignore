@@ -5,3 +5,16 @@ venv/
 *.safetensors
 *.pt
 *.pth
+wandb/
+.cache/
+huggingface/
+
+DPO-0.5B-Refined_ver5
+DPO-0.5B-Refined_ver4
+DPO-0.5B-Refined_ver3
+DPO-0.5B-Refined_ver2
+DPO-0.5B-Refined_ver1
+DPO-0.5B-Refined_f
+DPO-0.5B-Refined
+
+dpo_test.py
